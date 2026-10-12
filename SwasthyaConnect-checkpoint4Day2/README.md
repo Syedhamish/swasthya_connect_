@@ -1,7 +1,7 @@
 
 # SwasthyaConnect – Complete Project Overview
 
-SwasthyaConnect is a modern health-tech platform developed by **Team TechBrix** to solve the problem of access to real-time hospital availability, emergency tools, and personalized care.
+SwasthyaConnect is a modern health-tech platform to solve the problem of access to real-time hospital availability, emergency tools, and personalized care.
 
 This README includes a complete breakdown of the project, including every major file, its purpose, and the technology stack.
 
@@ -9,16 +9,19 @@ This README includes a complete breakdown of the project, including every major 
 
 ##  Tech Stack
 
-|        Layer           |                Technology                                              |
-|------------------------|------------------------------------------------------------------------|
-| Framework              | Next.js 14 (App Router) + TypeScript                                   |
-| Styling                | Tailwind CSS                                                           |
-| UI Libraries           | Lucide-react, Headless UI                                              |
-| Backend Services       | Firebase (Authentication, Firestore, Cloud Functions, Storage)         |
-| Realtime Location      | Leaflet.js + Browser Geolocation API                                   |
-| Hosting                | Firebase Hosting                                                       |
-| Version Control        | Git + GitHub                                                           |
-
+| Layer | Technology |
+|----------------------|------------------------------------------------|
+| Frontend | HTML, CSS, JavaScript |
+| Backend Services | Firebase |
+| Database | Firebase Realtime Database |
+| Authentication | Firebase Authentication |
+| Location & Maps | Google Maps API |
+| User Interface | User Dashboard |
+| Hospital Interface | Hospital Dashboard |
+| Access Control | Role-Based Access Control (RBAC) |
+| Appointment Management | Appointment Booking & Management |
+| Transportation | Uber & Rapido Deep Links |
+| Version Control | Git + GitHub |
 
 ---
 
