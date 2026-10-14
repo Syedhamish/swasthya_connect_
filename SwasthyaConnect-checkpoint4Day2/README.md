@@ -159,7 +159,3 @@ Live data such as ICU/general bed availability, oxygen stock, and emergency stat
 Goal: Ensure only authenticated and government-approved hospitals are visible in the app with accurate, trusted data.
 
 ---
-
-##  Credit & AI Usage
-
-This project was developed by **Team TechBrix**. Some assistance  was taken using OpenAI ChatGPT for code structure suggestions and component generation.
